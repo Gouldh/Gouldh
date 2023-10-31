@@ -14,11 +14,17 @@ I'm a Computer Science and Mathematics major at Union College with a deep intere
 
 ## 📊 Projects
 
+- **Portfolio Optimization Using Monte Carlo Simulation**:
+  - Developed a Python-based tool for portfolio optimization using Monte Carlo simulation, aimed at maximizing returns and minimizing risk.
+  - Successfully implemented Modern Portfolio Theory and the Efficient Frontier, enabling data-driven optimization of investment portfolios.
+  - Technologies: Python, yfinance, pandas, numpy, matplotlib
+  - [🔗 Github Repository](https://github.com/Gouldh/Monte-Carlo-Portfolio-Optimization/)
+
 - **Options Pricing Heatmap**:
    - Developed a calculator for options pricing using the Black-Scholes equation.
    - Visualized data with a heatmap.
    - Technologies: numpy, scipy, streamlit, plotly
-   - [🔗 Github Repository (temporarily a placeholder)](https://github.com/Gouldh/projectname)
+   - [🔗 Github Repository (Temporarily a placeholder)](https://github.com/Gouldh/)
 
 ## 🔍 Research
 - **Probability Theory Research**:
