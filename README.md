@@ -42,7 +42,7 @@ I'm a Computer Science and Mathematics major at Union College with a deep intere
 
 ## 🔧 Skills & Tools
 
-- **Programming**: Python, Java, Assembly, LaTeX
+- **Programming**: Python, Java, LaTeX
 - **Libraries & Frameworks**: numpy, scipy, plotly, streamlit, yfinance
 - **Coursework**: Probability Theory, Linear Algebra, Portfolio Management, Data Structures & Algorithms
 
