@@ -11,20 +11,22 @@ I'm a Computer Science and Mathematics major at Union College with a deep intere
   - Minor: Financial and Actuarial Mathematics
   - Expected Graduation: June 2026
   - Honors: Dean’s list 2022-2023, Presidential Scholarship
+ 
 
 ## 📊 Projects
+
+- **Options Pricing Heatmap**:
+   - Developed an options pricing framework in Python, encompassing the Black-Scholes Model, the Heston Model , and the Merton Jump Diffusion Model. 
+   - Executed Monte Carlo simulations for the Heston and Merton models.
+   - Created a heatmap visualizing option prices, reflecting changes in volatility and interest rates, using matplotlib for graphical representation.
+   - Technologies: Python, numpy, scipy, matplotlib
+   - [🔗 Github Repository](https://github.com/Gouldh/Option-Pricing-Heatmap)
 
 - **Portfolio Optimization Using Monte Carlo Simulation**:
   - Developed a Python-based tool for portfolio optimization using Monte Carlo simulation, aimed at maximizing returns and minimizing risk.
   - Successfully implemented Modern Portfolio Theory and the Efficient Frontier, enabling data-driven optimization of investment portfolios.
   - Technologies: Python, yfinance, pandas, numpy, matplotlib
   - [🔗 Github Repository](https://github.com/Gouldh/Monte-Carlo-Portfolio-Optimization/)
-
-- **Options Pricing Heatmap**:
-   - Developed a calculator for options pricing using the Black-Scholes equation.
-   - Visualized data with a heatmap.
-   - Technologies: numpy, scipy, streamlit, plotly
-   - [🔗 Github Repository (Temporarily a placeholder)](https://github.com/Gouldh/)
 
 ## 🔍 Research
 - **Probability Theory Research**:
