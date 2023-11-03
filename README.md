@@ -16,9 +16,9 @@ I'm a Computer Science and Mathematics major at Union College with a deep intere
 ## 📊 Projects
 
 - **Options Pricing Heatmap**:
-   - Developed an options pricing framework in Python, encompassing the Black-Scholes Model, the Heston Model, and the Merton Jump Diffusion Model. 
-   - Executed Monte Carlo simulations for the Heston and Merton models.
-   - Created a heatmap visualizing option prices, reflecting changes in volatility and interest rates, using matplotlib for graphical representation.
+   - Engineered a comprehensive financial analysis tool for calculating option prices using Black-Scholes, Heston, and Merton Jump Diffusion models.
+   - Executed a simulation-based approach for the Heston model to capture stochastic volatility and the Merton model for sudden price jumps.
+   - Created a heatmap visualization of option prices over varying volatilities and interest rates, improving data interpretability.
    - Technologies: Python, numpy, scipy, matplotlib
    - [🔗 Github Repository](https://github.com/Gouldh/Option-Pricing-Heatmap)
 
