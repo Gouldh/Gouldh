@@ -16,9 +16,9 @@ I'm a Computer Science and Mathematics major at Union College with a deep intere
 ## 📊 Projects
 
 - **Cryptographic Algorithms Visualization Tool**:
-   - Developed an interactive toolkit in Python during RPI Hack X to demonstrate Diffie-Hellman, Elgamal, and RSA algorithms, aimed at simplifying cryptographic education.
+   - Developed an interactive toolkit in Python during Hack RPI X to demonstrate Diffie-Hellman, Elgamal, and RSA algorithms, aimed at simplifying cryptographic education.
    - Led a team in designing a secure encoding scheme and real-time visualization of cryptographic processes, facilitating the understanding of secure message exchange and digital signature principles.
-   - Presented the project in front of an audience of over 300 participants and judges, earning recognition for its educational impact on digital security comprehension and won the Major Prize Track for Best Cybersecurity Hack.
+   - Presented the project in front of an audience of over 300 participants and judges, earning recognition for its educational impact on digital security comprehension and winning the Major Prize Track for Best Cybersecurity Hack.
    - Technologies: Python, NumPy, SymPy, PyQt/PySide
    - [🔗 Github Repository](https://github.com/smullahy/CryptoLearner)
 
