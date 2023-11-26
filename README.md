@@ -29,7 +29,7 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
    - Technologies: `Python`, `NumPy`, `SciPy`, `Matplotlib`
    - 🔗 [Github Repository](https://github.com/Gouldh/Option-Pricing-Heatmap)
 
-- **Cryptographic Algorithms Visualization Tool**:
+- **Cryptographic Algorithms Education Tool**:
    - Developed an interactive Python-based cryptographic toolkit at RPI Hack X, showcasing Diffie-Hellman, Elgamal, and RSA algorithms. Utilized `numpy` and `sympy` for mathematical computations and `PyQt/PySide6` for the GUI.
    - Collaborated in a three-person team to implement various cryptosystems and visualize cryptographic processes. Focused on practical application, achieving secure message exchange, key exchange and digital signature functionality.
    - Presented in front of over 300 participants and a panel of judges, winning the Major Prize Track for Best Cybersecurity Hack, demonstrating effective teaching of digital security measures to a broad audience.
