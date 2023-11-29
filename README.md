@@ -17,23 +17,25 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
 ## 📊 Projects
 
 - **Portfolio Analysis Suite**:
-   - Engineered a Python suite for financial portfolio analysis as an expansion on a previous portfolio optimization project, applying Modern Portfolio Theory through Monte Carlo simulations to optimize a given portfolio for Sharpe ratio, utilizing `yfinance` for financial data sourcing, `numpy` for computation, and `pandas` for data processing.
-   - Implemented backtesting, allowing for measuring of performance for any optimization over a chosen time period, visualizing probability distributions using `matplotlib` and `seaborn` in order to offer comparison between a median volatility portfolio, the optimized portfolio, the given portfolio, and the market representation.
-   - Technologies: `Python`, `Numpy`, `Pandas`, `Matplotlib`, `Yfinance`, `Seaborn`
-   - 🔗 [Github Repository](https://github.com/Gouldh/Portfolio-Analysis-Suite)
+   - Developed a Python-based tool that extends previous [portfolio optimization](https://github.com/Gouldh/Portfolio-Analysis-Suite) frameworks, integrating mean-variance optimization, machine learning strategies, and Black-Litterman model adjustments. Utilized `yfinance` for sourcing financial data, `numpy` and `pandas` for advanced data analytics, and `sklearn` for predictive modeling. 
+   - Generated comprehensive visualizations using `matplotlib` and `seaborn`, enabling intuitive comparison and analysis of various investment strategies, including risk-adjusted returns and portfolio diversification impacts.
+   - Implemented factor analysis using `statsmodels` to evaluate the influence of market risk factors on portfolio returns. Successfully optimized portfolio allocations under various market conditions, improving Sharpe Ratios and Sortino Ratios by over 50%, and improving Information Ratios by over 35% in simulated environments.
+   - Technologies: `python`, `numpy`, `pandas`, `matplotlib`, `sklearn` `yfinance`, `seaborn`, `statsmodels`
+   - 🔗 [GitHub Repository](https://github.com/Gouldh/ML-Portfolio-Optimization)
  
 - **Options Pricing Heatmap**:
    - Developed a financial analysis tool in Python for calculating option prices using Black-Scholes, Heston, and Merton Jump Diffusion models. Employed `numpy` for mathematical computations and `scipy` for statistical functions.
    - Implemented simulation-based approaches for the Heston model to analyze stochastic volatility and the Merton Jump Diffusion model to account for abrupt price jumps in asset pricing.
    - Created a heatmap visualization using `matplotlib` to depict option prices across various volatilities and interest rates, enhancing the interpretability and visualization of complex financial data.
-   - Technologies: `Python`, `NumPy`, `SciPy`, `Matplotlib`
-   - 🔗 [Github Repository](https://github.com/Gouldh/Option-Pricing-Heatmap)
+   - Adapted the project into a C++ version using `boost` libraries, focusing on the core option pricing functionalities without the graphing capabilities, to compare and enhance performance.
+   - Technologies: `python`, `numpy`, `scipy`, `matplotlib`, `C++`, `boost`
+   - 🔗 [Github Repository (Python)](https://github.com/Gouldh/Option-Pricing-Heatmap), 🔗 [Github Repository (C++)](https://github.com/Gouldh/Option-Pricing-CPP)
 
 - **Cryptographic Algorithms Education Tool**:
    - Developed an interactive Python-based cryptographic toolkit at RPI Hack X, showcasing Diffie-Hellman, Elgamal, and RSA algorithms. Utilized `numpy` and `sympy` for mathematical computations and `PyQt/PySide6` for the GUI.
    - Collaborated in a three-person team to implement various cryptosystems and visualize cryptographic processes. Focused on practical application, achieving secure message exchange, key exchange and digital signature functionality.
    - Presented in front of over 300 participants and a panel of judges, winning the Major Prize Track for Best Cybersecurity Hack, demonstrating effective teaching of digital security measures to a broad audience.
-   - Technologies: `Python`, `NumPy`, `SymPy`, `PyQt/PySide6`
+   - Technologies: `python`, `numPy`, `sympy`, `pyqt/pyside6`
    - 🔗 [Github Repository](https://github.com/smullahy/CryptoLearner)
 
 
@@ -55,7 +57,7 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
 ## 🔧 Skills & Tools
 
 - **Programming**: `Python`, `Java`, `R`, `LaTeX`.
-- **Libraries & Frameworks**: `NumPy`, `SciPy`, `SymPy`, `Matplotlib`, `Yfinance`.
+- **Libraries & Frameworks**: `numpy`, `scipy`, `sympy`, `matplotlib`, `yfinance`.
 
 
 ## 🌐 Connect with Me
