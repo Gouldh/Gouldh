@@ -1,7 +1,5 @@
 # 📌 Hello, I'm Hunter Gould!
 
-<img align="right" src="https://github.com/Gouldh/Gouldh/raw/main/pfp.jpg" alt="Profile Picture" width="350px">
-
 As a Computer Science and Mathematics major at Union College, I am deeply passionate about quantitative research, financial analysis, machine learning, and algorithmic problem-solving. I am committed to leveraging my academic background and skills to make a meaningful impact in the tech and finance industries.
 
 ## 📚 Education
