@@ -42,7 +42,8 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
 
 ## 🔍 Research
 - **Probability Theory Research**:
-   - Assisting Professor Phanuel Mariano with research in the field of probability theory during the winter term of 2023-2024.
+   - Assisting Professor Phanuel Mariano with research on a central limit theorem for matricies of random variables
+   - Assisting Professor Matthew Anderson with research on fast matrix multiplication in C++
 
 ## 💼 Work Experience
 
