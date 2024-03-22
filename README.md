@@ -9,7 +9,7 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
   - Expected Graduation: June 2026
   - Honors: Dean’s list 2022-2023, Presidential Scholarship, Best Cybersecurity Hack at Hack RPI X, Perfect 36 on the ACT
   - Campus Involvement: Sector Leader in SIF, Member of the Mathematics Problem Solving Group, Member of ACM-W, Member of AWM, and Peer Notetaker for students with disabilities.
-  - **Selected Coursework**: Probability Theory, Linear Algebra, Data Structures & Algorithms, Portfolio Management
+  - **Selected Coursework**: Probability Theory, Linear Algebra, Data Structures, Algorithm Design & Analysis, Portfolio Management
  
 
 ## 📊 Projects
@@ -42,7 +42,8 @@ As a Computer Science and Mathematics major at Union College, I am deeply passio
 
 ## 🔍 Research
 - **Probability Theory Research**:
-   - Assisting Professor Phanuel Mariano with research on a central limit theorem for matricies of random variables
+   - Assisting Professor Phanuel Mariano with research on a central limit theorem for matrices of random variables with determinant zero.
+- **Computer Science Research**:
    - Assisting Professor Matthew Anderson with research on fast matrix multiplication in C++
 
 ## 💼 Work Experience
